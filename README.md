@@ -10,4 +10,4 @@ Display Twitter avatar on AtCoder user page
 ## Install
 
 1. Install [TamperMonkey](https://tampermonkey.net/) on your browser.
-2. Install script from [here](https://greasyfork.org/ja/scripts/372507-atcoder-twitter-avatar).
+2. Install script from [Greasy Fork](https://greasyfork.org/ja/scripts/372507-atcoder-twitter-avatar).
