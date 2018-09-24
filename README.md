@@ -5,6 +5,8 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)  
 Display Twitter avatar on AtCoder user page
 
+![screenshot](https://github.com/prince0203/atcoder-twitter-avatar/raw/master/img/screenshot.png)
+
 ## Install
 
 1. Install [TamperMonkey](https://tampermonkey.net/) on your browser.
