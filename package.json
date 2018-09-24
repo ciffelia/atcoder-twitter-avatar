@@ -1,0 +1,23 @@
+{
+  "name": "atcoder-twitter-avatar",
+  "version": "1.0.0",
+  "description": "Display Twitter avatar on AtCoder user page",
+  "main": "src/index.js",
+  "repository": "github:prince0203/atcoder-twitter-avatar",
+  "author": "prince <mc.prince.0203@gmail.com> (https://ciffelia.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/prince0203/atcoder-twitter-avatar#readme",
+  "bugs": "https://github.com/prince0203/atcoder-twitter-avatar/issues",
+  "private": true,
+  "scripts": {
+    "test": "standard",
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^0.64.1",
+    "standard": "^11.0.1"
+  },
+  "standard": {
+    "envs": ["browser"]
+  }
+}
