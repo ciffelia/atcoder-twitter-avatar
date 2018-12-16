@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         AtCoder Twitter Avatar
 // @namespace    https://ciffelia.com/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Display Twitter avatar on AtCoder user page
-// @author       prince <mc.prince.0203@gmail.com> (https://ciffelia.com/)
+// @author       Ciffelia <mc.prince.0203@gmail.com> (https://ciffelia.com/)
 // @license      MIT
-// @homepage     https://github.com/prince0203/atcoder-twitter-avatar#readme
-// @supportURL   https://github.com/prince0203/atcoder-twitter-avatar/issues
+// @homepage     https://github.com/ciffelia/atcoder-twitter-avatar#readme
+// @supportURL   https://github.com/ciffelia/atcoder-twitter-avatar/issues
 // @match        http*://atcoder.jp/user/*
 // @match        https://beta.atcoder.jp/users/*
 // @run-at       document-end
