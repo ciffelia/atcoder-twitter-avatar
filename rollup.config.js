@@ -10,8 +10,7 @@ const banner = `
 // @license      ${packageJson.license}
 // @homepage     ${packageJson.homepage}
 // @supportURL   ${packageJson.bugs}
-// @match        http*://atcoder.jp/user/*
-// @match        https://beta.atcoder.jp/users/*
+// @match        https://atcoder.jp/users/*
 // @run-at       document-end
 // ==/UserScript==
 `.trim() + '\n'

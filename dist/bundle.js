@@ -7,8 +7,7 @@
 // @license      MIT
 // @homepage     https://github.com/ciffelia/atcoder-twitter-avatar#readme
 // @supportURL   https://github.com/ciffelia/atcoder-twitter-avatar/issues
-// @match        http*://atcoder.jp/user/*
-// @match        https://beta.atcoder.jp/users/*
+// @match        https://atcoder.jp/users/*
 // @run-at       document-end
 // ==/UserScript==
 
