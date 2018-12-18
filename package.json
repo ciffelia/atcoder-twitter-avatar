@@ -1,6 +1,6 @@
 {
   "name": "atcoder-twitter-avatar",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Display Twitter avatar on AtCoder user page",
   "main": "src/index.js",
   "repository": "github:ciffelia/atcoder-twitter-avatar",

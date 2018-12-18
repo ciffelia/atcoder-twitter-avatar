@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AtCoder Twitter Avatar
 // @namespace    https://ciffelia.com/
-// @version      1.0.2
+// @version      2.0.0
 // @description  Display Twitter avatar on AtCoder user page
 // @author       Ciffelia <mc.prince.0203@gmail.com> (https://ciffelia.com/)
 // @license      MIT
