@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "rollup": "^1.13.1",
-    "standard": "^12.0.1"
+    "standard": "^13.0.1"
   },
   "standard": {
     "envs": ["browser"]
