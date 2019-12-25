@@ -10,14 +10,17 @@
   "bugs": "https://github.com/ciffelia/atcoder-twitter-avatar/issues",
   "private": true,
   "scripts": {
-    "test": "standard",
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "lint": "standard",
+    "fix": "standard --fix"
   },
   "devDependencies": {
     "rollup": "^1.27.14",
     "standard": "^14.3.1"
   },
   "standard": {
-    "envs": ["browser"]
+    "envs": [
+      "browser"
+    ]
   }
 }
