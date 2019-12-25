@@ -21,6 +21,9 @@
   "standard": {
     "envs": [
       "browser"
+    ],
+    "ignore": [
+      "bundle.js"
     ]
   }
 }
